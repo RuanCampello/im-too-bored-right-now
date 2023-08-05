@@ -1,4 +1,6 @@
-## Getting Started
+# Tired of having nothing do to at all? Want some suggestion of what do with your time (or what not to do with it)? Learn more below!
+
+## I'm too bored right now
 
 As a person with ADHD, I frequently find myself without an ideia of what to do. 
 Thinking about that and searching, I became aware of Bored API (https://www.boredapi.com).
